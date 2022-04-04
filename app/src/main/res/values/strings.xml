@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Pawssion</string>
+    <string name="menu_Open">Open</string>
+    <string name="close_menu">Close</string>
+    <string name="welcome">WELCOME</string>
+    <string name="to">TO</string>
+    <string name="pawssion">PAWSSION</string>
+
+    <string name="Feed">Feed Pet</string>
+    <string name="schedule">Schedule Feed</string>
+    <string name="pets">My Pets</string>
+    <string name="add">Add Pet</string>
+    <string name="activities">Pet Activities</string>
+    <string name="diary">Pet Diary</string>
+    <string name="tips">Feeding Tips</string>
+    <string name="exit">Exit</string>
+    <string name="options">More Options</string>
+</resources>

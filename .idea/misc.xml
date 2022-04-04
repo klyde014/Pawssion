@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/Pawssion/app/src/main/res/drawable/ic_baseline_event_note_24.xml" value="0.1" />
+        <entry key="..\:/Android/Pawssion/app/src/main/res/drawable/ic_baseline_sticky_note_2_24.xml" value="0.1" />
+        <entry key="..\:/Android/Pawssion/app/src/main/res/layout/activity_main.xml" value="0.380248833592535" />
+        <entry key="..\:/Android/Pawssion/app/src/main/res/layout/fragment_activities.xml" value="0.3546875" />
+        <entry key="..\:/Android/Pawssion/app/src/main/res/layout/fragment_add.xml" value="0.3546875" />
+        <entry key="..\:/Android/Pawssion/app/src/main/res/layout/fragment_diary.xml" value="0.3546875" />
+        <entry key="..\:/Android/Pawssion/app/src/main/res/layout/fragment_food.xml" value="0.25" />
+        <entry key="..\:/Android/Pawssion/app/src/main/res/layout/fragment_food2.xml" value="0.3546875" />
+        <entry key="..\:/Android/Pawssion/app/src/main/res/layout/fragment_pets.xml" value="0.22" />
+        <entry key="..\:/Android/Pawssion/app/src/main/res/layout/fragment_schedule.xml" value="0.3546875" />
+        <entry key="..\:/Android/Pawssion/app/src/main/res/layout/fragment_tips.xml" value="0.3546875" />
+        <entry key="..\:/Android/Pawssion/app/src/main/res/layout/header_menu.xml" value="0.25" />
+        <entry key="..\:/Android/Pawssion/app/src/main/res/menu/main_menu.xml" value="0.25" />
+        <entry key="..\:/Android/Pawssion/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.195" />
+        <entry key="..\:/Android/Pawssion/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.195" />
+        <entry key="..\:/Android/Pawssion/app/src/main/res/mipmap-anydpi-v26/paw_launcher.xml" value="0.195" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
